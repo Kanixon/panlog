@@ -1,4 +1,4 @@
-module panlog
+module github.com/Kanixon/panlog
 
 go 1.23.2
 
